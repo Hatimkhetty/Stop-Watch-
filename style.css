@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(background.png)
+}
+
+.containe {
+    background-color: black;
+}
+
+h2 {
+    color: brown;
+}
+
+h1 {
+    background-color: white;
+    display: inline-block;
+    margin: 20px;
+    width: 45px !important;
+}
+
+button {
+    size: 10px;
+    margin: 20px;
+}
